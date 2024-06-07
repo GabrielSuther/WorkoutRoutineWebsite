@@ -11,9 +11,9 @@ h1 {
 }
 
 li {
-    width: 50px;
+    width: 250px;
     height: 50px;
     border-radius: 50%;
-    background-color: #000;
+    background-color: #6056e9;
     margin: 10px;
   }
