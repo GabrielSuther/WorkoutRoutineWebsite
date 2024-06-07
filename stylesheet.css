@@ -9,6 +9,9 @@ body {
 h1 {
     
 }
+ul {
+    list-style: upper-roman;
+}
 
 li {
     width: 250px;
@@ -16,4 +19,9 @@ li {
     border-radius: 50%;
     background-color: #6056e9;
     margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 25px;
   }
