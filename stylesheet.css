@@ -14,7 +14,7 @@ ul {
     list-style: upper-roman;
 }
 
-li {
+#mainpage {
     width: 250px;
     height: 50px;
     border-radius: 50%;
