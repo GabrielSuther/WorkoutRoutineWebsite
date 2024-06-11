@@ -23,9 +23,7 @@ body {
   #LDTitle {
     width: 150px;
     height: 50px;
-    border-radius: 50%;
     margin: 10px;
-    display: flex;
     justify-content: center;
     align-items: center;
     color: black;
@@ -35,9 +33,7 @@ body {
   #WRS {
     width: 150px;
     height: 50px;
-    border-radius: 50%;
     margin: 10px;
-    display: flex;
     justify-content: center;
     align-items: center;
     color: black;
@@ -47,9 +43,7 @@ body {
   #LDbody {
     width: 150px;
     height: 50px;
-    border-radius: 50%;
     margin: 10px;
-    display: flex;
     justify-content: center;
     align-items: center;
     color: black;
