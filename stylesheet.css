@@ -28,7 +28,7 @@ li {
   }
 
   #LDTitle {
-    width: 250px;
+    width: 150px;
     height: 50px;
     border-radius: 50%;
     margin: 10px;
@@ -40,7 +40,7 @@ li {
   }
 
   #WRS {
-    width: 250px;
+    width: 150px;
     height: 50px;
     border-radius: 50%;
     margin: 10px;
@@ -52,7 +52,7 @@ li {
   }
 
   #LDbody {
-    width: 250px;
+    width: 150px;
     height: 50px;
     border-radius: 50%;
     margin: 10px;
