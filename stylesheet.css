@@ -21,8 +21,8 @@ body {
   }
 
   #LDTitle {
-    width: 150px;
-    height: 50px;
+    width: 250px;
+    height: 150px;
     margin: 10px;
     justify-content: center;
     align-items: center;
@@ -31,7 +31,7 @@ body {
   }
 
   #WRS {
-    width: 150px;
+    width: fit-content;
     height: 50px;
     margin: 10px;
     justify-content: center;
