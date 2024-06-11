@@ -26,3 +26,24 @@ li {
     color: black;
     font-size: 25px;
   }
+
+  #LDTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+  }
+
+  #WRS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
+
+  #LDbody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  }
