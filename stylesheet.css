@@ -20,7 +20,7 @@ body {
   }
 
   #LDTitle {
-    width: 250px;
+    width: fit-content;
     height: 150px;
     margin: 10px;
     justify-content: center;
