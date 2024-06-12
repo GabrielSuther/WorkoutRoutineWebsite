@@ -2,50 +2,43 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
     width: 100%;
-    margin: 0;
+    margin: 0px;
     background-color: #e3dac9;
   }
 
 #mainpage {
-    width: 250px;
-    height: fit-content;
-    border-radius: 50%;
-    background-color: #228B22;
-    margin: 0px;
+    border-radius: 10%;
+    border: 2px solid black;
+    background-color: #2ab3c187;
+    margin: auto;
     justify-content: center;
     align-items: center;
     color: black;
-    font-size: 25px;
+    font-size: 35px;
   }
 
-  #LDTitle {
-    width: fit-content;
-    height: 150px;
-    margin: 0px;
-    justify-content: flex-start;
+ #LDTitle {
+    margin: auto;
+    justify-content: center;
     align-items: center;
-    color: black;
+    color: #000000;
     font-size: 100px;
       line-height: 1;
   }
 
   #WRS {
-    width: fit-content;
-    height: 50px;
-    margin: 10px;
-    justify-content: flex-start;
+    margin: auto;
+    justify-content: center;
     align-items: center;
-    color: black;
-    font-size: 45px;
+    color: #0000009c;
+    font-size: 35px;
   }
 
   #LDbody {
-    width: fill-content;
-    height: 50px;
-    margin: 10px;
-    justify-content: flex-start;
+    margin: auto;
+    justify-content: center;
     align-items: center;
     color: black;
     font-size: 50px;
