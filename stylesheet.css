@@ -19,7 +19,7 @@ body {
     font-size: 35px;
   }
 
- #LDTitle {
+ #Title {
     margin: auto;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@ body {
     font-size: 35px;
   }
 
-  #LDbody {
+  #workouts {
     margin: auto;
     justify-content: center;
     align-items: center;
