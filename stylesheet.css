@@ -28,7 +28,7 @@ body {
     font-size: 35px;
 }
 
- #Title {
+ .Title {
     margin: auto;
     justify-content: center;
     text-align: center;
@@ -37,7 +37,7 @@ body {
       line-height: 1;
   }
 
-  #WRS {
+  .WRS {
     margin: auto;
     justify-content: center;
     text-align: center;
@@ -45,7 +45,7 @@ body {
     font-size: 35px;
   }
 
-  #workouts {
+  .workouts {
     margin: auto;
     justify-content: center;
     text-align: center;
