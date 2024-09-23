@@ -2,6 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     height: 100%;
     width: 100%;
     margin: 0px;
@@ -19,27 +20,44 @@ body {
     font-size: 35px;
   }
 
- #Title {
+#Link {
     margin: auto;
     justify-content: center;
     align-items: center;
+    color: black;
+    font-size: 35px;
+}
+
+ .Title {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
     color: #000000;
     font-size: 75px;
       line-height: 1;
   }
 
-  #WRS {
+  .WRS {
     margin: auto;
     justify-content: center;
-    align-items: center;
+    text-align: center;
     color: #0000009c;
     font-size: 35px;
   }
 
-  #workouts {
+  .workouts {
     margin: auto;
     justify-content: center;
-    align-items: center;
+    text-align: center;
     color: black;
     font-size: 40px;
   }
+
+.info {
+  color: #2ab3c1;
+  font-size: 35px;
+}
+
+.sub {
+  font-size: 50px
+}
